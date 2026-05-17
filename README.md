@@ -32,7 +32,7 @@ Requires Rust. Install via [rustup](https://rustup.rs) if needed.
 |---|---|---|
 | Cards per box | 100 | Standard box |
 | Cards per sheet | 20 | 13x19 inch sheet |
-| Click cost | $0.40 | Per printed side, per sheet |
+| Click cost | $2.00 | Per printed side, per sheet |
 | Sheet cost | $2.00 | Art Card 270gsm |
 | Labour | $30.00 flat | Per job. Assumption, adjust to real figure. |
 | Rush multiplier | 1.5x | Applied to normal subtotal. Rounds to nearest cent. |

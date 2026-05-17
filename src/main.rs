@@ -1,4 +1,4 @@
-// bizcard_pricerStructpractice
+// bizcard_pricer_Structpractice
 // v1: business cards only. Material is hard-coded as Art Card 270gsm.
 
 
